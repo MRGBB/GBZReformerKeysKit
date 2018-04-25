@@ -1,0 +1,6 @@
+framework module Pods_GBZReformerKeysKit_Example {
+  umbrella header "Pods-GBZReformerKeysKit_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

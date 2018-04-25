@@ -1,0 +1,22 @@
+{
+  "name": "GBZReformerKeysKit",
+  "version": "1",
+  "summary": "A short description of GBZReformerKeysKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/MRGBB/GBZReformerKeysKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "MRGBB": "guobb@pifubao.com"
+  },
+  "source": {
+    "git": "https://github.com/MRGBB/GBZReformerKeysKit.git",
+    "tag": "1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "GBZReformerKeysKit/Classes/**"
+}

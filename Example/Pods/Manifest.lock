@@ -1,0 +1,16 @@
+PODS:
+  - GBZReformerKeysKit (1)
+
+DEPENDENCIES:
+  - GBZReformerKeysKit (from `../`)
+
+EXTERNAL SOURCES:
+  GBZReformerKeysKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  GBZReformerKeysKit: c3ba19c51ad455604312542493fedac530d03bf0
+
+PODFILE CHECKSUM: db36af9a5c33414af0c72e2dd457dd70e1da12c9
+
+COCOAPODS: 1.5.0
