@@ -10,6 +10,8 @@
 #endif
 #endif
 
+#import "FFAuthorListReformerKeys.h"
+#import "FFSpecialListReformerKeys.h"
 
 FOUNDATION_EXPORT double GBZReformerKeysKitVersionNumber;
 FOUNDATION_EXPORT const unsigned char GBZReformerKeysKitVersionString[];

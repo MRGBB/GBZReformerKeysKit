@@ -7,15 +7,19 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1006912552BED8AB95C45A1094F8B16D /* FFSpecialListReformerKeys.m in Sources */ = {isa = PBXBuildFile; fileRef = E6D4280C4851470C02EDBFE12FDAD27D /* FFSpecialListReformerKeys.m */; };
+		20AD78A14D71DEE9D37447207E070FA1 /* FFSpecialListReformerKeys.h in Headers */ = {isa = PBXBuildFile; fileRef = 098DCEA4C796D34BC73CD3A5E78D1D5C /* FFSpecialListReformerKeys.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		39245E346F13C5FAD68EB70746124BB2 /* FFAuthorListReformerKeys.m in Sources */ = {isa = PBXBuildFile; fileRef = AFD792BCAFBE1F56258B85E3492A78F0 /* FFAuthorListReformerKeys.m */; };
 		40FB8E7F5E0F1F68E35FB8A11168CCDC /* Pods-GBZReformerKeysKit_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 2EDF92D251CE0CA4F18E19DCD4583F56 /* Pods-GBZReformerKeysKit_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		5785445418D01CBB40154BE536BBA566 /* GBZReformerKeysKit-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 211C7F313DADE04D0D0BBAC6007BFFD0 /* GBZReformerKeysKit-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		5810CB31958982EB297A1AAA8C5BA88F /* ReplaceMe.m in Sources */ = {isa = PBXBuildFile; fileRef = 527D9902B33A5AD5C3A4D60B9B0AD18E /* ReplaceMe.m */; };
 		60A81EAD04F38AEB2F5A79C0378FBFE7 /* Pods-GBZReformerKeysKit_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = C9516CB369BC8B88267413A81D3DEE60 /* Pods-GBZReformerKeysKit_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		630D9F8861F31FE6FEBEFD9E54195501 /* Pods-GBZReformerKeysKit_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 6942282B94D7D2F403C00B7168352CF6 /* Pods-GBZReformerKeysKit_Example-dummy.m */; };
-		77E292249EFC878306699FBFD9A70791 /* GBZReformerKeysKit-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = AFCC78D9A7897866D49609824B470558 /* GBZReformerKeysKit-dummy.m */; };
+		6C20D28739A13C06A637004F5D1E6E3B /* GBZReformerKeysKit-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 06609FB7A45FB502F1483FA531339408 /* GBZReformerKeysKit-dummy.m */; };
 		78A0DDD8D19501DDB21AC18F7B4ADB27 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */; };
-		7E7657CCEEB871EE23D53F4E85A7498B /* ReplaceMe.m in Sources */ = {isa = PBXBuildFile; fileRef = 5F228CF6CE25D645F4095561E646196A /* ReplaceMe.m */; };
 		821C3523E0ECBD604FD71A060FE528D0 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */; };
-		B61A872FD392F50E1DAB677167889089 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */; };
+		97ECDF608F9B414CF08E3170C379DFBF /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */; };
+		B392ED69D3F1F7CE63E01874FDF8E160 /* FFAuthorListReformerKeys.h in Headers */ = {isa = PBXBuildFile; fileRef = 12E078609A98F6091EFDF6FB2887EC3E /* FFAuthorListReformerKeys.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		E0237CF92EFCD238496EA8CF05C90BDB /* GBZReformerKeysKit-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = CCACA1B49731B7BA76271C547703D351 /* GBZReformerKeysKit-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		F7CC365375FA5E0B80EA7E2F5DB26007 /* Pods-GBZReformerKeysKit_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = AAE89021CABC7DB37A4D5517D89CB0B5 /* Pods-GBZReformerKeysKit_Tests-dummy.m */; };
 /* End PBXBuildFile section */
 
@@ -24,7 +28,7 @@
 			isa = PBXContainerItemProxy;
 			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 70CFC49CD6B9919A38C0FDCF24A6037B;
+			remoteGlobalIDString = 2693AED704983936A16AE280CF235A5F;
 			remoteInfo = GBZReformerKeysKit;
 		};
 		B601C7E037EEA710C4234698B1A2A465 /* PBXContainerItemProxy */ = {
@@ -37,49 +41,53 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		06609FB7A45FB502F1483FA531339408 /* GBZReformerKeysKit-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "GBZReformerKeysKit-dummy.m"; sourceTree = "<group>"; };
 		0834C75CEE2303BAB6A6AF744B4EA7A9 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		098DCEA4C796D34BC73CD3A5E78D1D5C /* FFSpecialListReformerKeys.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = FFSpecialListReformerKeys.h; sourceTree = "<group>"; };
 		11886FD6E88099B410C3D8207E9EEFA9 /* Pods-GBZReformerKeysKit_Tests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-GBZReformerKeysKit_Tests-frameworks.sh"; sourceTree = "<group>"; };
-		211C7F313DADE04D0D0BBAC6007BFFD0 /* GBZReformerKeysKit-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "GBZReformerKeysKit-umbrella.h"; sourceTree = "<group>"; };
-		2E6754A71E7F16ED4AC18686A621B78D /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
+		12E078609A98F6091EFDF6FB2887EC3E /* FFAuthorListReformerKeys.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = FFAuthorListReformerKeys.h; sourceTree = "<group>"; };
+		20C48399A876F5C57B7054707CA1B5F2 /* GBZReformerKeysKit.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = GBZReformerKeysKit.xcconfig; sourceTree = "<group>"; };
 		2EDF92D251CE0CA4F18E19DCD4583F56 /* Pods-GBZReformerKeysKit_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-GBZReformerKeysKit_Example-umbrella.h"; sourceTree = "<group>"; };
-		2FB0A64F7D8539C11095FA4DA5DA0DDF /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
 		31AD856B21A7350A2BF584B208D8BCEE /* Pods-GBZReformerKeysKit_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-GBZReformerKeysKit_Example-acknowledgements.plist"; sourceTree = "<group>"; };
-		33233085BD8F16F569E57B5CA2451FF7 /* GBZReformerKeysKit.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; path = GBZReformerKeysKit.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		421976FBF99F8F33895CFF370BA0798C /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3FF5FE19B4E98623449EB2D1CCA82B63 /* GBZReformerKeysKit.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = GBZReformerKeysKit.modulemap; sourceTree = "<group>"; };
 		4633F8ECD54D552F2FF08630ADEA9616 /* Pods_GBZReformerKeysKit_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_GBZReformerKeysKit_Example.framework; path = "Pods-GBZReformerKeysKit_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		527D9902B33A5AD5C3A4D60B9B0AD18E /* ReplaceMe.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = ReplaceMe.m; path = GBZReformerKeysKit/Classes/ReplaceMe.m; sourceTree = "<group>"; };
 		55308369CA433022D3007F220458BDFE /* Pods-GBZReformerKeysKit_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-GBZReformerKeysKit_Example.release.xcconfig"; sourceTree = "<group>"; };
 		5A56A01D580BD153EB512C0EFFC1DDFC /* Pods-GBZReformerKeysKit_Example-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-GBZReformerKeysKit_Example-resources.sh"; sourceTree = "<group>"; };
 		5D7E6E475BFBD76E7A757FC274D3B5B0 /* Pods-GBZReformerKeysKit_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-GBZReformerKeysKit_Example-frameworks.sh"; sourceTree = "<group>"; };
-		5F228CF6CE25D645F4095561E646196A /* ReplaceMe.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = ReplaceMe.m; path = GBZReformerKeysKit/Classes/ReplaceMe.m; sourceTree = "<group>"; };
+		620264CEA6A7B82AA33771CD18F3E8C6 /* GBZReformerKeysKit.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; path = GBZReformerKeysKit.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		63A916D3D43E3BCEAD4DCECBC22450EA /* Pods-GBZReformerKeysKit_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-GBZReformerKeysKit_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
-		65FE779E38F9A8C726ABEF59F495773C /* GBZReformerKeysKit.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = GBZReformerKeysKit.modulemap; sourceTree = "<group>"; };
 		6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		688EAC4F5C9BC0E466F8ACC390B037BB /* Pods-GBZReformerKeysKit_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-GBZReformerKeysKit_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
 		6942282B94D7D2F403C00B7168352CF6 /* Pods-GBZReformerKeysKit_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-GBZReformerKeysKit_Example-dummy.m"; sourceTree = "<group>"; };
+		78E2BD1B9376852E7E13BCEE351A3CA1 /* GBZReformerKeysKit-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "GBZReformerKeysKit-prefix.pch"; sourceTree = "<group>"; };
 		88CEF26CFEC224772C68296BC5CADB63 /* Pods-GBZReformerKeysKit_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-GBZReformerKeysKit_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
+		92931ECCE9E6AD458CF7018660973BAC /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
 		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		95083C47E561C18770AA8FC810F7328E /* Pods-GBZReformerKeysKit_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-GBZReformerKeysKit_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		98E7B5754982A1B63433A9A10BAF605B /* Pods_GBZReformerKeysKit_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_GBZReformerKeysKit_Tests.framework; path = "Pods-GBZReformerKeysKit_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		9A6C0DDB8D31BCAA0F3A2458D0A2218F /* Pods-GBZReformerKeysKit_Tests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-GBZReformerKeysKit_Tests-resources.sh"; sourceTree = "<group>"; };
 		A941A7D6CB49E58CA0200D94B0CAC6AB /* Pods-GBZReformerKeysKit_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-GBZReformerKeysKit_Tests.modulemap"; sourceTree = "<group>"; };
 		AAE89021CABC7DB37A4D5517D89CB0B5 /* Pods-GBZReformerKeysKit_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-GBZReformerKeysKit_Tests-dummy.m"; sourceTree = "<group>"; };
-		AFCC78D9A7897866D49609824B470558 /* GBZReformerKeysKit-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "GBZReformerKeysKit-dummy.m"; sourceTree = "<group>"; };
+		AFD792BCAFBE1F56258B85E3492A78F0 /* FFAuthorListReformerKeys.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = FFAuthorListReformerKeys.m; sourceTree = "<group>"; };
 		BDEF30BCA41F48F7DDE48FA96DA90101 /* Pods-GBZReformerKeysKit_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-GBZReformerKeysKit_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		BE45AB26A0839FF42AD38F1194E91D60 /* GBZReformerKeysKit.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = GBZReformerKeysKit.framework; path = GBZReformerKeysKit.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		C9516CB369BC8B88267413A81D3DEE60 /* Pods-GBZReformerKeysKit_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-GBZReformerKeysKit_Tests-umbrella.h"; sourceTree = "<group>"; };
-		DFC4E8A47A47EB1488B91D2C8CE5A596 /* GBZReformerKeysKit-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "GBZReformerKeysKit-prefix.pch"; sourceTree = "<group>"; };
+		CCACA1B49731B7BA76271C547703D351 /* GBZReformerKeysKit-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "GBZReformerKeysKit-umbrella.h"; sourceTree = "<group>"; };
+		D1FFAF3E11B23DD9AF4EC931803D5C00 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E6D4280C4851470C02EDBFE12FDAD27D /* FFSpecialListReformerKeys.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = FFSpecialListReformerKeys.m; sourceTree = "<group>"; };
 		E99FCA6F16D0F085622551F0F073BB2C /* Pods-GBZReformerKeysKit_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-GBZReformerKeysKit_Example.modulemap"; sourceTree = "<group>"; };
 		EE77011781B1629DA351A6803800FAC0 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		FA8CBE3AF052EC9DB417A6B2F5D90366 /* GBZReformerKeysKit.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = GBZReformerKeysKit.xcconfig; sourceTree = "<group>"; };
+		F9D5F6645E7A46B375A798AEAB328DAC /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
 		FAF4C54695E5DAA7D74223528A0FB778 /* Pods-GBZReformerKeysKit_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-GBZReformerKeysKit_Tests.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		6A159451183D1B2BFF8EA723F3ADDE37 /* Frameworks */ = {
+		B75FB7B9E99888DE7F1E17EEAC76A447 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B61A872FD392F50E1DAB677167889089 /* Foundation.framework in Frameworks */,
+				97ECDF608F9B414CF08E3170C379DFBF /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -102,23 +110,47 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		3D16772380076011F5B9A807DB9569FE /* Development Pods */ = {
+			isa = PBXGroup;
+			children = (
+				3E45B5F4B32E18AEF0B9FD26C1A5378C /* GBZReformerKeysKit */,
+			);
+			name = "Development Pods";
+			sourceTree = "<group>";
+		};
+		3E45B5F4B32E18AEF0B9FD26C1A5378C /* GBZReformerKeysKit */ = {
+			isa = PBXGroup;
+			children = (
+				527D9902B33A5AD5C3A4D60B9B0AD18E /* ReplaceMe.m */,
+				F58BA94DCE857E32371F05F36E238EE0 /* Others */,
+				DECE05144AE845EFB6FFD93198405FC6 /* Pod */,
+				FA0819EF031E3C910A7B0F13F5B06B66 /* Support Files */,
+			);
+			name = GBZReformerKeysKit;
+			path = ../..;
+			sourceTree = "<group>";
+		};
+		6D195B211AB153F2727FCA2BAE621E4F /* reformerKeys */ = {
+			isa = PBXGroup;
+			children = (
+				12E078609A98F6091EFDF6FB2887EC3E /* FFAuthorListReformerKeys.h */,
+				AFD792BCAFBE1F56258B85E3492A78F0 /* FFAuthorListReformerKeys.m */,
+				098DCEA4C796D34BC73CD3A5E78D1D5C /* FFSpecialListReformerKeys.h */,
+				E6D4280C4851470C02EDBFE12FDAD27D /* FFSpecialListReformerKeys.m */,
+			);
+			name = reformerKeys;
+			path = reformerKeys;
+			sourceTree = "<group>";
+		};
 		7DB346D0F39D3F0E887471402A8071AB = {
 			isa = PBXGroup;
 			children = (
 				93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */,
-				7FFF1908E9150BD2322FCE1E34CD5422 /* Development Pods */,
+				3D16772380076011F5B9A807DB9569FE /* Development Pods */,
 				BC3CA7F9E30CC8F7E2DD044DD34432FC /* Frameworks */,
 				A935DCFE6A3C61F204A17CEFEF067FD6 /* Products */,
 				B19D8225127058A098B356AE7AAB82C2 /* Targets Support Files */,
 			);
-			sourceTree = "<group>";
-		};
-		7FFF1908E9150BD2322FCE1E34CD5422 /* Development Pods */ = {
-			isa = PBXGroup;
-			children = (
-				C915ABAADE3350B3753A9A56CBAAC6F8 /* GBZReformerKeysKit */,
-			);
-			name = "Development Pods";
 			sourceTree = "<group>";
 		};
 		9BB447864E956C6084C025B194C8BAC0 /* Pods-GBZReformerKeysKit_Example */ = {
@@ -184,17 +216,6 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		C915ABAADE3350B3753A9A56CBAAC6F8 /* GBZReformerKeysKit */ = {
-			isa = PBXGroup;
-			children = (
-				5F228CF6CE25D645F4095561E646196A /* ReplaceMe.m */,
-				E07EF854B0FD18DA54937B2A67987AC1 /* Pod */,
-				F135F21557E8C35A6CB2A4E4DDE881CC /* Support Files */,
-			);
-			name = GBZReformerKeysKit;
-			path = ../..;
-			sourceTree = "<group>";
-		};
 		D35AF013A5F0BAD4F32504907A52519E /* iOS */ = {
 			isa = PBXGroup;
 			children = (
@@ -203,25 +224,34 @@
 			name = iOS;
 			sourceTree = "<group>";
 		};
-		E07EF854B0FD18DA54937B2A67987AC1 /* Pod */ = {
+		DECE05144AE845EFB6FFD93198405FC6 /* Pod */ = {
 			isa = PBXGroup;
 			children = (
-				33233085BD8F16F569E57B5CA2451FF7 /* GBZReformerKeysKit.podspec */,
-				2E6754A71E7F16ED4AC18686A621B78D /* LICENSE */,
-				2FB0A64F7D8539C11095FA4DA5DA0DDF /* README.md */,
+				620264CEA6A7B82AA33771CD18F3E8C6 /* GBZReformerKeysKit.podspec */,
+				F9D5F6645E7A46B375A798AEAB328DAC /* LICENSE */,
+				92931ECCE9E6AD458CF7018660973BAC /* README.md */,
 			);
 			name = Pod;
 			sourceTree = "<group>";
 		};
-		F135F21557E8C35A6CB2A4E4DDE881CC /* Support Files */ = {
+		F58BA94DCE857E32371F05F36E238EE0 /* Others */ = {
 			isa = PBXGroup;
 			children = (
-				65FE779E38F9A8C726ABEF59F495773C /* GBZReformerKeysKit.modulemap */,
-				FA8CBE3AF052EC9DB417A6B2F5D90366 /* GBZReformerKeysKit.xcconfig */,
-				AFCC78D9A7897866D49609824B470558 /* GBZReformerKeysKit-dummy.m */,
-				DFC4E8A47A47EB1488B91D2C8CE5A596 /* GBZReformerKeysKit-prefix.pch */,
-				211C7F313DADE04D0D0BBAC6007BFFD0 /* GBZReformerKeysKit-umbrella.h */,
-				421976FBF99F8F33895CFF370BA0798C /* Info.plist */,
+				6D195B211AB153F2727FCA2BAE621E4F /* reformerKeys */,
+			);
+			name = Others;
+			path = GBZReformerKeysKit/Classes/Others;
+			sourceTree = "<group>";
+		};
+		FA0819EF031E3C910A7B0F13F5B06B66 /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				3FF5FE19B4E98623449EB2D1CCA82B63 /* GBZReformerKeysKit.modulemap */,
+				20C48399A876F5C57B7054707CA1B5F2 /* GBZReformerKeysKit.xcconfig */,
+				06609FB7A45FB502F1483FA531339408 /* GBZReformerKeysKit-dummy.m */,
+				78E2BD1B9376852E7E13BCEE351A3CA1 /* GBZReformerKeysKit-prefix.pch */,
+				CCACA1B49731B7BA76271C547703D351 /* GBZReformerKeysKit-umbrella.h */,
+				D1FFAF3E11B23DD9AF4EC931803D5C00 /* Info.plist */,
 			);
 			name = "Support Files";
 			path = "Example/Pods/Target Support Files/GBZReformerKeysKit";
@@ -230,19 +260,21 @@
 /* End PBXGroup section */
 
 /* Begin PBXHeadersBuildPhase section */
+		6B255931B874EB2E821558923A7B9756 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B392ED69D3F1F7CE63E01874FDF8E160 /* FFAuthorListReformerKeys.h in Headers */,
+				20AD78A14D71DEE9D37447207E070FA1 /* FFSpecialListReformerKeys.h in Headers */,
+				E0237CF92EFCD238496EA8CF05C90BDB /* GBZReformerKeysKit-umbrella.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		6F2C9237DBBB43E9FBCDA1765F7C2EC6 /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 				40FB8E7F5E0F1F68E35FB8A11168CCDC /* Pods-GBZReformerKeysKit_Example-umbrella.h in Headers */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		7F06FCD2DA9B0BE2D2012A594DF253A4 /* Headers */ = {
-			isa = PBXHeadersBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				5785445418D01CBB40154BE536BBA566 /* GBZReformerKeysKit-umbrella.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -275,13 +307,13 @@
 			productReference = 4633F8ECD54D552F2FF08630ADEA9616 /* Pods_GBZReformerKeysKit_Example.framework */;
 			productType = "com.apple.product-type.framework";
 		};
-		70CFC49CD6B9919A38C0FDCF24A6037B /* GBZReformerKeysKit */ = {
+		2693AED704983936A16AE280CF235A5F /* GBZReformerKeysKit */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 6573F45D3699D99F5ACA1F15B7CF0B43 /* Build configuration list for PBXNativeTarget "GBZReformerKeysKit" */;
+			buildConfigurationList = 8AA25A955F7EAA4D8D8763339E8CD363 /* Build configuration list for PBXNativeTarget "GBZReformerKeysKit" */;
 			buildPhases = (
-				387EEC50DE0CC1E628A4995687694B92 /* Sources */,
-				6A159451183D1B2BFF8EA723F3ADDE37 /* Frameworks */,
-				7F06FCD2DA9B0BE2D2012A594DF253A4 /* Headers */,
+				8896A493E63EFE588462936CA64321EF /* Sources */,
+				B75FB7B9E99888DE7F1E17EEAC76A447 /* Frameworks */,
+				6B255931B874EB2E821558923A7B9756 /* Headers */,
 			);
 			buildRules = (
 			);
@@ -331,7 +363,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				70CFC49CD6B9919A38C0FDCF24A6037B /* GBZReformerKeysKit */,
+				2693AED704983936A16AE280CF235A5F /* GBZReformerKeysKit */,
 				1D14FBC02CF741AE44142BF1D03E0E38 /* Pods-GBZReformerKeysKit_Example */,
 				EE47A674B0ECE9E5F991193A24798F9E /* Pods-GBZReformerKeysKit_Tests */,
 			);
@@ -339,12 +371,14 @@
 /* End PBXProject section */
 
 /* Begin PBXSourcesBuildPhase section */
-		387EEC50DE0CC1E628A4995687694B92 /* Sources */ = {
+		8896A493E63EFE588462936CA64321EF /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				77E292249EFC878306699FBFD9A70791 /* GBZReformerKeysKit-dummy.m in Sources */,
-				7E7657CCEEB871EE23D53F4E85A7498B /* ReplaceMe.m in Sources */,
+				39245E346F13C5FAD68EB70746124BB2 /* FFAuthorListReformerKeys.m in Sources */,
+				1006912552BED8AB95C45A1094F8B16D /* FFSpecialListReformerKeys.m in Sources */,
+				6C20D28739A13C06A637004F5D1E6E3B /* GBZReformerKeysKit-dummy.m in Sources */,
+				5810CB31958982EB297A1AAA8C5BA88F /* ReplaceMe.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -376,12 +410,43 @@
 		D616D7892AF81ACED20597D69C1650BF /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = GBZReformerKeysKit;
-			target = 70CFC49CD6B9919A38C0FDCF24A6037B /* GBZReformerKeysKit */;
+			target = 2693AED704983936A16AE280CF235A5F /* GBZReformerKeysKit */;
 			targetProxy = 4418B148DDAE51BB65DF9B19131C9A94 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
+		1FDD7A926FC846B58ED9B748A73BDF85 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 20C48399A876F5C57B7054707CA1B5F2 /* GBZReformerKeysKit.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/GBZReformerKeysKit/GBZReformerKeysKit-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/GBZReformerKeysKit/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/GBZReformerKeysKit/GBZReformerKeysKit.modulemap";
+				PRODUCT_MODULE_NAME = GBZReformerKeysKit;
+				PRODUCT_NAME = GBZReformerKeysKit;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
 		28BD66E0A006432EE4C34FF0F7F00F2A /* Debug */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = BDEF30BCA41F48F7DDE48FA96DA90101 /* Pods-GBZReformerKeysKit_Example.debug.xcconfig */;
@@ -442,37 +507,6 @@
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Release;
-		};
-		489439A2A4A02FDF84B771B06C72D541 /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = FA8CBE3AF052EC9DB417A6B2F5D90366 /* GBZReformerKeysKit.xcconfig */;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/GBZReformerKeysKit/GBZReformerKeysKit-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/GBZReformerKeysKit/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/GBZReformerKeysKit/GBZReformerKeysKit.modulemap";
-				PRODUCT_MODULE_NAME = GBZReformerKeysKit;
-				PRODUCT_NAME = GBZReformerKeysKit;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
 				VERSIONING_SYSTEM = "apple-generic";
@@ -577,36 +611,6 @@
 			};
 			name = Debug;
 		};
-		8DFE877F76BBAFD69367B6F6A54D9322 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = FA8CBE3AF052EC9DB417A6B2F5D90366 /* GBZReformerKeysKit.xcconfig */;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/GBZReformerKeysKit/GBZReformerKeysKit-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/GBZReformerKeysKit/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/GBZReformerKeysKit/GBZReformerKeysKit.modulemap";
-				PRODUCT_MODULE_NAME = GBZReformerKeysKit;
-				PRODUCT_NAME = GBZReformerKeysKit;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
-		};
 		B2DB822329C24C6CA94F623690884C21 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 95083C47E561C18770AA8FC810F7328E /* Pods-GBZReformerKeysKit_Tests.debug.xcconfig */;
@@ -698,6 +702,36 @@
 			};
 			name = Release;
 		};
+		F58EFC54421C9263D14955A1DEC07EEA /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 20C48399A876F5C57B7054707CA1B5F2 /* GBZReformerKeysKit.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/GBZReformerKeysKit/GBZReformerKeysKit-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/GBZReformerKeysKit/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/GBZReformerKeysKit/GBZReformerKeysKit.modulemap";
+				PRODUCT_MODULE_NAME = GBZReformerKeysKit;
+				PRODUCT_NAME = GBZReformerKeysKit;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
@@ -728,11 +762,11 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		6573F45D3699D99F5ACA1F15B7CF0B43 /* Build configuration list for PBXNativeTarget "GBZReformerKeysKit" */ = {
+		8AA25A955F7EAA4D8D8763339E8CD363 /* Build configuration list for PBXNativeTarget "GBZReformerKeysKit" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				8DFE877F76BBAFD69367B6F6A54D9322 /* Debug */,
-				489439A2A4A02FDF84B771B06C72D541 /* Release */,
+				F58EFC54421C9263D14955A1DEC07EEA /* Debug */,
+				1FDD7A926FC846B58ED9B748A73BDF85 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
