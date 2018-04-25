@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'GBZReformerKeysKit_Example' do
+  pod 'GBZReformerKeysKit', :path => '../'
+
+  target 'GBZReformerKeysKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
